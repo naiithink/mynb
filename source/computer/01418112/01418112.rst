@@ -1,0 +1,14 @@
+01418112
+========
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: 01418112
+
+   LAB
+
+.. code:: python
+
+   while not False:
+      print("eiei.")
