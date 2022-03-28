@@ -2,6 +2,10 @@
 mynb
 ====
 
+.. image:: https://readthedocs.org/projects/mynb/badge/?version=latest
+    :target: https://mynb.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 ============ ============
 **Version:** |VERSION|
 ------------ ------------
