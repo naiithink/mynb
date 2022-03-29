@@ -20,6 +20,7 @@
 
    gists/gists
    downloads/downloads
+   Status Page <https://mynb.statuspage.io/>
 
 =====
 
