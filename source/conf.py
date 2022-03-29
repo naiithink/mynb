@@ -3,7 +3,7 @@
 project = "mynb"
 copyright = "2022, naiithink"
 author = "naiithink"
-version = "0.1.0-alpha"
+version = "dne"
 
 
 templates_path = ["_templates"]
