@@ -3,7 +3,7 @@ mynb
 ====
 
 .. image:: https://readthedocs.org/projects/mynb/badge/?version=latest
-    :target: https://mynb.readthedocs.io/en/latest/?badge=latest
+    :target: https://mynb.readthedocs.io/en/0.1.0-dne/?badge=latest
     :alt: Documentation Status
 
 ============ ============
