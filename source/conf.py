@@ -14,7 +14,7 @@ extensions = [
     "myst_parser"
 ]
 
-# nbsphinx_execute = "never"
+nbsphinx_execute = "never"
 
 html_static_path = ["_static"]
 html_theme = "furo"
