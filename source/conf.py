@@ -6,6 +6,8 @@ author = "naiithink"
 version = "0.1.0-alpha"
 
 
+html_title = "mynb"
+
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "**.ipynb_checkpoints"]
 extensions = [
