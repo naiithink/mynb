@@ -1,3 +1,6 @@
+# Project
+.venv*
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
