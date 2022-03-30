@@ -2,8 +2,8 @@
 mynb
 ====
 
-.. image:: https://readthedocs.org/projects/mynb/badge/?version=latest
-    :target: https://mynb.readthedocs.io/en/0.1.0-dne/?badge=0.1.0-dne
+.. image:: https://readthedocs.org/projects/mynb/badge/?version=latest&style=flat-square
+    :target: https://mynb.readthedocs.io/en/0.1.0-alpha/?badge=0.1.0-alpha
     :alt: Documentation Status
 
 ============ ============

@@ -7,7 +7,7 @@
     :caption: 01418113
 
     git/git
-    LAB
+    01418113/LAB
 
 .. code:: c
 

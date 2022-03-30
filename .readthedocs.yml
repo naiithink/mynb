@@ -3,10 +3,10 @@ version: 2
 python:
   version: "3"
   install:
-    - requirements: doc/requirements.txt
+    - requirements: etc/doc/requirements.txt
   system_packages: true
 
 sphinx:
-  builder: html
+  builder: dirhtml
   configuration: source/conf.py
   fail_on_warning: false

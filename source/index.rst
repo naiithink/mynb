@@ -10,16 +10,16 @@
    :maxdepth: 1
    :caption: Computer
 
-   computer/01418112/01418112
-   computer/01418113/01418113
+   computer/01418112
+   computer/01418113
 
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: More
 
-   gists/gists
-   downloads/downloads
+   gists
+   downloads
    Status Page <https://mynb.statuspage.io/>
 
 =====

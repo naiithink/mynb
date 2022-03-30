@@ -1,0 +1,62 @@
+|BDG-TEMPLATE|
+
+**01418113-LAB**
+
+.. grid:: 1 1 2 3
+    :gutter: 3
+
+    .. grid-item-card:: LAB07s
+        :shadow: lg
+
+        |01417113-LAB07s| |SUM-01417113-LAB07s|
+
+    .. grid-item-card:: LAB08
+        :shadow: lg
+
+        |01417113-LAB08| |SUM-01417113-LAB08|
+
+    .. grid-item-card:: LAB09
+        :shadow: lg
+
+        |01417113-LAB09| |SUM-01417113-LAB09|
+
+    .. grid-item-card:: LAB09.5
+        :shadow: lg
+
+        |01417113-LAB09.5| |SUM-01417113-LAB09.5|
+
+    .. grid-item-card:: LAB10
+        :shadow: lg
+
+        |01417113-LAB10| |SUM-01417113-LAB10|
+
+    .. grid-item-card:: LAB11
+        :shadow: lg
+
+        |01417113-LAB11| |SUM-01417113-LAB11|
+
+    .. grid-item-card:: LAB12
+        :shadow: lg
+
+        |01417113-LAB12| |SUM-01417113-LAB12|
+
+.. |01417113-LAB07s|        replace::   :download:`Download <src/ipynb/LAB07s_tmpl.ipynb>`
+.. |SUM-01417113-LAB07s|    replace::   :download:`sha256 <src/ipynb/LAB07s_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB08|         replace::   :download:`Download <src/ipynb/LAB08_tmpl.ipynb>`
+.. |SUM-01417113-LAB08|     replace::   :download:`sha256 <src/ipynb/LAB08_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB09|         replace::   :download:`Download <src/ipynb/LAB09_tmpl.ipynb>`
+.. |SUM-01417113-LAB09|     replace::   :download:`sha256 <src/ipynb/LAB09_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB09.5|       replace::   :download:`Download <src/ipynb/LAB09.5_tmpl.ipynb>`
+.. |SUM-01417113-LAB09.5|   replace::   :download:`sha256 <src/ipynb/LAB09.5_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB10|         replace::   :download:`Download <src/ipynb/LAB10_tmpl.ipynb>`
+.. |SUM-01417113-LAB10|     replace::   :download:`sha256 <src/ipynb/LAB10_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB11|         replace::   :download:`Download <src/ipynb/LAB11_tmpl.ipynb>`
+.. |SUM-01417113-LAB11|     replace::   :download:`sha256 <src/ipynb/LAB11_tmpl.ipynb.sha256.txt>`
+
+.. |01417113-LAB12|         replace::   :download:`Download <src/ipynb/LAB12_tmpl.ipynb>`
+.. |SUM-01417113-LAB12|     replace::   :download:`sha256 <src/ipynb/LAB12_tmpl.ipynb.sha256.txt>`
